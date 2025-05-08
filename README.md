@@ -29,4 +29,4 @@ Acesse `http://localhost:3000`, abra múltiplas abas/janelas e troque mensagens 
 - Express.js (rotas, arquivos estáticos)  
 - Socket.io (WebSockets + fallback)  
 - Nodemon (dev)
-!(Prints/exGitCRT2.png)
+  ![Demo](Prints/exGitCRT2.png)
