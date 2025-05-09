@@ -12,7 +12,6 @@ Servidor HTTP em **Express** serve uma SPA (HTML/CSS/JS) que conecta clientes vi
 1. Clone o repositório  
 2. `npm install`  
 3. `npm run dev` (com Nodemon) ou `npm start`
-4. Necessário descompactar a pasta "node_modules"
 
 ## Uso
 
